@@ -73,6 +73,7 @@
 - https://github.com/Vectorized/solady/blob/main/src/accounts/EIP7702Proxy.sol
 - https://github.com/base/eip-7702-proxy
 - https://github.com/openfort-xyz/openfort-7702-account
+- https://github.com/uniswap/calibur
 
 ### POCs & Demos
 - Ithaca Demos:
