@@ -51,8 +51,8 @@
 - [Trust Wallet](https://beincrypto.com/trust-wallet-ethereum-eip7702-support/)
 - [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
 - [Openfort](https://www.openfort.io/docs/products/embedded-wallet/7702#quickstart---7702-accounts)
-- [Rainbow Wallet](https://github.com/uniswap/calibur)
-- [Uniswap Wallet](https://github.com/Uniswap/calibur)
+- [Rainbow Wallet](https://x.com/rainbowdotme/status/2026753700216127820)
+- [Uniswap Wallet](https://support.uniswap.org/hc/en-us/articles/36391987158797-Smart-Wallets-and-Delegation)
 
 ### Blockchain Support
 - [7702 Beat](https://swiss-knife.xyz/7702beat) - by Swiss-knife.xyz
