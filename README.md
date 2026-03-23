@@ -51,6 +51,8 @@
 - [Trust Wallet](https://beincrypto.com/trust-wallet-ethereum-eip7702-support/)
 - [OKX Wallet](https://web3.okx.com/help/okx-wallet-to-support-eip-7702)
 - [Openfort](https://www.openfort.io/docs/products/embedded-wallet/7702#quickstart---7702-accounts)
+- [Rainbow Wallet](https://github.com/rainbow-me/calibur) - Calibur EIP-7702 delegation contract
+- [Uniswap Wallet](https://github.com/Uniswap/calibur) - Calibur EIP-7702 delegation contract
 
 ### Blockchain Support
 - [7702 Beat](https://swiss-knife.xyz/7702beat) - by Swiss-knife.xyz
